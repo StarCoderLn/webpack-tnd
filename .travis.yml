@@ -11,7 +11,7 @@ node_js: stable
 
 install:
   - npm install -D
-  - cd ./test/somke/template
+  - cd ./test/smoke/template
   - npm install -D
 
 scripts:
